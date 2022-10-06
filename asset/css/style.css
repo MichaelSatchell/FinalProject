@@ -1,0 +1,12 @@
+#container{
+    width: 50%;
+    /* width: 960px; */
+    margin: 0 auto;
+    background: green;
+}
+/* .one{
+    display: inline-block;
+}
+.two{
+    display: inline-block;
+} */
